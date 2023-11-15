@@ -1,5 +1,5 @@
 let checkAge = async (inputAge) => {
-    return new Promise((resolve, reject) => 
+    return await new Promise((resolve, reject) => 
     {
       let receivingAge = setTimeout(() => 
       {
