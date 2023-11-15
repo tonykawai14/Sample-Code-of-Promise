@@ -1,0 +1,5 @@
+Follow the insturction below: 
+type it 1 by 1 in the console. 
+
+1.) npm install nodemon prompt-sync
+2.) npm init -y
